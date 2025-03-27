@@ -2,7 +2,7 @@
 
 ▌Описание:
 
-Сайт-портфолио, демонстрирующий мои навыки и проекты: https://codrago.top.
+Сайт-портфолио, демонстрирующий мои навыки и проекты: [Web Codrago](https://bio.codrago.top) или [Web CodWiz](https://codwiz.ru).
 
 ▌Технологии:
 
@@ -10,7 +10,7 @@
 
 ▌Демо:
 
-Посмотреть: https://codrago.top
+Посмотреть: [Web Codrago](https://bio.codrago.top) или [Web CodWiz](https://codwiz.ru)
 
 ▌Автор:
 
